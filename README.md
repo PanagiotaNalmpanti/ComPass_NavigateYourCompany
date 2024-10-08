@@ -1,4 +1,4 @@
-**ComPass - Navigate Your Company**\
+# **ComPass - Navigate Your Company**\
 As part of a project for the course "Mobile Device Application Development", 
 we created a mobile application called "ComPass". Many businesses often face 
 the problem of managing leave requests in the workplace, frequently due to a 
